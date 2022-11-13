@@ -1,0 +1,12 @@
+{
+  "name" : "Better Syndicates Aesthetics",
+  "id" : "",
+  "version" : "0.0.1",
+  "supported_game_version" : "",
+  "short_description" : "Change the aesthetics of Anarchist USA",
+  "tags" : ["flags", "colors", "USA", "Anarchists"],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}
