@@ -1,0 +1,3 @@
+colors = {	
+	communist_USA_red	=	{ 99  3  48 }
+} 
