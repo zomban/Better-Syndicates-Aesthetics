@@ -34,14 +34,7 @@ USA = {	# United States of America
 		coa = USA_anarchist
 		priority = 1500
 		trigger = { 
-			coa_socialism_trigger = yes
-		}
-	}
-	flag_definition = {
-		coa = USA_communist
-		priority = 1500
-		trigger = { 
-			coa_socialist_dictatorship_trigger = yes
+			coa_def_communist_flag_trigger = yes
 		}
 	}
 	flag_definition = {
