@@ -46,7 +46,7 @@ USA = {	# United States of America
 	}
 	flag_definition = {
 		coa = USA_REV
-		priority = 1500
+		priority = 1600
 		trigger = { 
 			coa_def_revsocialism_flag_trigger = yes
 		}
