@@ -51,5 +51,5 @@ coa_def_ML_flag_trigger = {
 
 coa_def_sythesis_flag_trigger = {
 	exists = scope:actor
-	scope:actor = { coa_socialism_trigger = yes }
+	scope:actor = { coa_sythesis_trigger = yes }
 }
