@@ -39,21 +39,21 @@ USA = {	# United States of America
 	}
 	flag_definition = {
 		coa = USA_anarchist
-		priority = 1800
+		priority = 1450
 		trigger = { 
 			coa_def_anarchist_flag_trigger = yes
 		}
 	}
 	flag_definition = {
 		coa = USA_REV
-		priority = 1600
+		priority = 1400
 		trigger = { 
 			coa_def_revsocialism_flag_trigger = yes
 		}
 	}
 	flag_definition = {
 		coa = USA_SOC
-		priority = 2000
+		priority = 1500
 		trigger = { 
 			coa_def_sythesis_flag_trigger = yes
 		}
@@ -61,7 +61,7 @@ USA = {	# United States of America
 	flag_definition = {
 		coa = USA_fascist
 		subject_canton = USA_fascist
-		priority = 1500
+		priority = 1400
 		trigger = { 
 			coa_def_fascist_flag_trigger = yes
 		}

@@ -4,7 +4,7 @@
 @pi = 3.1416
 
 USA_REV = {
-	pattern = "pattern_USA_revsoc.tga"
+	pattern = "pattern_USA_revsoc.dds"
 	color1 = "blue"
 	color2 = "red"
 	color3 = "white"
@@ -27,7 +27,7 @@ USA_anarchist = {
 	}	
 }
 USA_SOC  = {
-	pattern = "pattern_USA_synthesis.tga"
+	pattern = "pattern_USA_synthesis.dds"
 	color1 = "blue"
 	color2 = "red"
 	color3 = "white"
