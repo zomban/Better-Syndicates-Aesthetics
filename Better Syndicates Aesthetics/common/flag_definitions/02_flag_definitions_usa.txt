@@ -32,7 +32,7 @@ USA = {	# United States of America
 	}
 	flag_definition = {
 		coa = USA_communist
-		priority = 1800
+		priority = 1450
 		trigger = { 
 			coa_def_ML_flag_trigger = yes
 		}
