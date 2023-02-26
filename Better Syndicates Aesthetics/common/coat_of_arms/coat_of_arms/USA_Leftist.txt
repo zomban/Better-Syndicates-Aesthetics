@@ -1,0 +1,40 @@
+##### VARIABLES
+@third = @[1/3]
+@sixth = @[1/6]
+@pi = 3.1416
+
+USA_REV = {
+	pattern = "pattern_USA_revsoc.tga"
+	color1 = "blue"
+	color2 = "red"
+	color3 = "white"
+	
+	textured_emblem  = {
+		texture = "te_USA_REV.dds"
+		instance = { position = { 0.25 0.25 } scale = { 0.5 0.5 } } 
+	}
+	
+}
+USA_anarchist = {
+	pattern = "pattern_per_bend_senester_USA.dds"
+	color1 = "black"
+	color2 = "red"
+	color3 = "white"
+	
+	textured_emblem  = {
+		texture = "te_USA_SYN.dds"
+		instance = { position = { 0.3 0.30 } scale = { 0.5 0.5 } } 
+	}	
+}
+USA_SOC  = {
+	pattern = "pattern_USA_synthesis.tga"
+	color1 = "blue"
+	color2 = "red"
+	color3 = "white"
+	
+	textured_emblem  = {
+		texture = "te_USA_SOC.dds"
+		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 } } 
+	}
+	
+}
